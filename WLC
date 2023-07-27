@@ -1,6 +1,7 @@
 keys = {
 [=H?%%Y>;*tg0@'&] = true, //-- Random key!
 [|jee3T_},^PYk$'] = true,
-[o-&LZ!URg8S'so)] = true
+[o-&LZ!URg8S'so)] = true,
+[5hDK5t7n] = false
 }
 return keys
